@@ -1,0 +1,118 @@
+id,joke_submitter_id,gender,age,birth_country,major,preferred_joke_genre,preferred_joke_genre2,preferred_joke_type,favorite_music_genre,favorite_movie_genre
+453,17395,Male,20,"United States","Computer Science/CSE",Nerd,School,Puns,Hip-Hop,Comedy
+454,lois,Female,25,China,Physics,Animal,Math,"Punch line",Pop,SciFi
+455,aawhoo,Male,21,"United States","Computer Science/CSE",Programming,Animal,Puns,Jazz,Thriller
+456,12378954,Male,22,"United States","Computer Science/CSE",Nerd,Programming,Question,Hip-Hop,SciFi
+457,22118,Male,23,"United States","Computer Science/CSE",Nerd,Programming,Puns,"Alternative Rock",SciFi
+458,49132,Male,23,India,Statistics,Politics,Sports,Puns,Hip-Hop,Mystery
+459,37751,Female,21,"","Computer Engineering",Other,"","",Classical,Superhero
+460,55174,Female,20,India,"Computer Science/CSE",Politics,Math,Puns,Hip-Hop,Comedy
+461,62313,Male,21,"Korea South","Computer Science/CSE",Politics,"","","Alternative Rock",Documentary
+462,96004,Male,26,"United States",Statistics,Programming,Math,Puns,Hip-Hop,Documentary
+463,84753,Male,23,China,"Computer Science/CSE",School,Programming,"Fun fact",Hip-Hop,Action
+464,71684,Female,20,"Hong Kong","Computer Science/CSE",Other,Animal,One-Liner,Pop,Family
+465,97018,Male,21,"United States","Computer Science/CSE",Nerd,"",Puns,Classical,Action
+466,64844,Male,21,Philippines,"Computer Science/CSE",Sports,Animal,Question,Hip-Hop,Thriller
+467,75280,Female,21,"United States",Statistics,Nerd,Programming,Dialogue,"Alternative Rock",Thriller
+468,32336,Male,24,Vietnam,"Computer Science/CSE",Programming,School,One-Liner,Classical,Comedy
+469,94728,Male,21,Belarus,"Computer Science/CSE",Nerd,Programming,Puns,Indie,Comedy
+470,23477,Male,23,"United States","Computer Science/CSE",Math,Programming,One-Liner,Indie,SciFi
+471,77270,Male,21,"United States","Computer Engineer",Programming,Math,Puns,Classical,Comedy
+472,49336,Male,21,"United States",Statistics,Nerd,Programming,Dialogue,Rock,Comedy
+473,30953,Male,21,China,"Computer Science/CSE",Programming,Other,Dialogue,Hip-Hop,Superhero
+474,23470,Male,22,India,"Computer Science/CSE",Programming,Politics,"Punch line",Classical,Thriller
+475,57022,Male,21,"United States","Computer Science/CSE",Medicine/Doctor,Animal,"Pick-up Line",Hip-Hop,"Romantic comedy"
+476,58269,Male,23,"United States","Computer Science/CSE",Nerd,Programming,One-Liner,Rock,SciFi
+477,82114,Male,26,"","Electrical Engineering",Politics,Sports,Question,Classical,Action
+478,21117,Female,22,"El Salvador","Computer Science/CSE",Programming,Politics,Puns,"Alternative Rock",SciFi
+479,51488,"Prefer not to say",23,Mexico,"Computer Science/CSE",Programming,Politics,Puns,"Alternative Rock",Horror
+480,52418,Female,24,Taiwan,Statistics,Math,Programming,Question,Rock,Horror
+481,56677,Male,21,"United States",Statistics,Other,Math,Puns,"Alternative Rock",SciFi
+482,91709,Male,25,Kyrgyzstan,"Computer Science/CSE",Other,Other,Dialogue,Country,Mystery
+483,81514,Male,24,China,Statistics,School,"",One-Liner,Rap,SciFi
+484,57594,Male,21,"United States","Computer Science/CSE",Nerd,Programming,One-Liner,Country,Action
+485,56364,Female,21,China,"Computer Science/CSE",Programming,Nerd,"Fun fact",Pop,"Romantic comedy"
+486,10711,Male,20,China,Physics,Politics,"","",Pop,Action
+487,81880,Female,20,China,"Computer Science/CSE",Programming,Children,"Fun fact",Pop,"Romantic comedy"
+488,48818,Male,21,China,"Computer Science/CSE",Sports,"","",Jazz,Action
+489,23806,Male,21,"United States","Computer Science/CSE",Programming,Lawyer,"Punch line",Jazz,Action
+490,Eai,Male,21,Canada,"Computer Science/CSE",Nerd,Programming,Puns,Rap,Comedy
+491,88838,Male,24,"United States","Computer Science/CSE",Other,Nerd,Dialogue,"Alternative Rock",Superhero
+492,69225,Female,21,"","Computer Science/CSE",Animal,Programming,"",Pop,Comedy
+493,77409,Male,19,China,"Computer Science/CSE",Nerd,Politics,Dialogue,Classical,SciFi
+494,23903,Female,21,"United States",Statistics,Other,Children,Dialogue,Indie,Mystery
+495,10842,Male,23,"United States","Computer Science/CSE",Programming,Nerd,"Punch line",Rock,Thriller
+496,42168,Male,20,"United States","Computer Science/CSE",Programming,"","",Rap,SciFi
+497,98039,Male,23,Ukraine,"Computer Science/CSE",Programming,Politics,Dialogue,Classical,Action
+498,58186,Male,19,"United States","Computer Science/CSE",Programming,Math,"Punch line",Rock,SciFi
+499,98256,Male,21,"United States","Computer Science/CSE",Programming,Politics,Dialogue,Country,SciFi
+500,60312,Male,24,"United States","Computer Science/CSE",Programming,Politics,Dialogue,Classical,Action
+501,97321,Male,21,"United States","Computer Science/CSE",Politics,School,Puns,EDM,Action
+502,52477,Male,21,"United States","Computer Science/CSE",Politics,Other,Puns,"Alternative Rock",SciFi
+503,28946,Female,21,Taiwan,"Computer Science/CSE",Programming,School,"Pick-up Line",Hip-Hop,Thriller
+504,83925,Male,23,China,"Computer Science/CSE",Animal,School,One-Liner,Jazz,Comedy
+505,99698,Male,21,"United States","Computer Science/CSE",Nerd,Other,Puns,Pop,Action
+506,62937,Male,20,"United States","Computer Science/CSE",Other,Politics,Puns,Pop,Thriller
+507,61087,Male,21,"United States","Computer Science/CSE",Programming,Other,One-Liner,Rap,Action
+508,72385,Male,21,China,"Computer Science/CSE",Math,Programming,One-Liner,Classical,Documentary
+509,15544,Female,22,China,"Computer Science/CSE",Programming,Nerd,Puns,Pop,Indie
+510,23192,Female,21,"United States","Computer Science/CSE",Programming,School,Puns,Hip-Hop,SciFi
+511,85889,Male,21,"United States","Computer Science/CSE",Nerd,Math,Dialogue,"Alternative Rock",SciFi
+512,74970,Male,20,India,"Computer Science/CSE",Nerd,Programming,Puns,Pop,Superhero
+513,19760,Male,21,Netherlands,"Computer Science/CSE",Animal,Sports,One-Liner,"Alternative Rock",Comedy
+514,89049,Male,27,Mexico,EEC,Medicine/Doctor,Politics,"","Alternative Rock",Action
+515,64740,Male,21,"United States","Computer Science/CSE",Other,Programming,One-Liner,EDM,Thriller
+516,64072,Female,20,China,"Computer Science/CSE",Programming,School,"Fun fact",Pop,Mystery
+517,73512,Male,20,"United States","Computer Science/CSE",Nerd,Math,Puns,Rap,Action
+518,13801,Male,21,"United States","Electrical Engineering",Nerd,Politics,Puns,Metal,SciFi
+519,36158,Male,20,"United States","Computer Science/CSE",Other,Politics,One-Liner,Rap,Comedy
+520,16801,Male,22,"United States","Computer Science/CSE",Politics,Nerd,Dialogue,Metal,SciFi
+521,12650,Male,22,"United States","Mechanical Engineering",Other,Other,"Pick-up Line",Jazz,"Romantic comedy"
+522,23189,Male,22,"United States","Computer Science/CSE",Programming,Sports,Puns,Hip-Hop,Thriller
+523,19817,Male,21,India,"Computer Science/CSE",Programming,Sports,Puns,Hip-Hop,Action
+524,90815,Male,22,Peru,"Computer Science/CSE",School,Math,Question,EDM,Mystery
+525,53027,Male,24,China,"Computer Science/CSE",Animal,Nerd,One-Liner,Pop,Action
+526,42533,Male,21,"United States","Computer Science/CSE",Programming,Nerd,Dialogue,Pop,SciFi
+527,23792,Female,22,China,Statistics,School,Children,Puns,Rap,Action
+528,92919,Female,24,China,Statistics,School,Medicine/Doctor,"",Jazz,Comedy
+529,86349,Male,21,"United States","Computer Science/CSE",Sports,Nerd,Puns,Rap,Thriller
+530,87150,Male,22,"United States","Computer Science/CSE",Programming,Math,One-Liner,EDM,Superhero
+531,14858,Male,21,China,"Computer Science/CSE",Programming,School,Question,Hip-Hop,Horror
+532,60438,Female,22,China,"Computer Science/CSE",Programming,School,Dialogue,Rock,SciFi
+533,82131,Male,20,"United States","Computer Science/CSE",Programming,School,One-Liner,EDM,Horror
+534,29898,Male,22,"","Computer Science/CSE",Math,Politics,Puns,Rap,Superhero
+535,70707,Male,21,"United States",Math,Math,Programming,Dialogue,"Alternative Rock",Documentary
+536,92228,Male,21,"United States","Computer Science/CSE",Other,Animal,Dialogue,Classical,Mystery
+537,35035,Female,21,"United States","Computer Science/CSE",Nerd,Math,One-Liner,Rock,Action
+538,Aashir,Male,22,"United States","Computer Science/CSE",Programming,Math,"Punch line",Hip-Hop,SciFi
+539,64239,Male,22,"","Computer Science/CSE",Programming,"","",Pop,Horror
+540,36184,Male,21,"United States",Physics,Animal,Math,"Punch line",Hip-Hop,Thriller
+541,79126,Male,20,"United States","Computer Science/CSE",Nerd,School,"Punch line","Alternative Rock",Comedy
+542,79293,Male,23,"United States","Computer Science/CSE",Programming,Lawyer,"Punch line","Alternative Rock",SciFi
+543,70999,Male,22,"United States","Computer Science/CSE",Other,Lawyer,Puns,Hip-Hop,SciFi
+544,84594,Male,22,"United States","Computer Science/CSE",Nerd,Programming,Question,Rap,Thriller
+545,51429,Male,21,India,Math,Programming,Other,Dialogue,Hip-Hop,Thriller
+546,97832,Male,20,Israel,"Computer Science/CSE",Politics,Politics,"Punch line",Rock,Action
+547,25918,Male,30,"United States",Statistics,Other,Politics,Dialogue,Rap,Comedy
+548,999725878,Male,20,China,"Biochemical Engineering",Other,Other,Dialogue,EDM,Action
+549,50754,Male,22,"United States","Computer Science/CSE",Other,Politics,One-Liner,Blues,Mystery
+550,84815,Female,22,India,"Computer Science and Physcis",Nerd,Politics,"Pick-up Line",Rock,Thriller
+551,22707,Male,23,"United States","Computer Science/CSE",Programming,Politics,Question,EDM,SciFi
+552,97731,Male,21,"United States","Computer Science/CSE",Programming,Sports,Dialogue,Rock,SciFi
+553,jisyun,Male,26,"United States","Computer Science/CSE",Animal,Programming,Dialogue,Rock,SciFi
+554,16492,Male,20,China,"Computer Science/CSE",Programming,School,Question,Pop,SciFi
+555,24754,Female,21,"United States","Computer Science/CSE",Programming,Politics,Question,"Alternative Rock",Comedy
+556,supermariosubmarine,Male,22,"United States","Computer Science/CSE",Programming,Nerd,Dialogue,Pop,Superhero
+557,74912,Female,20,"","Computer Science/CSE",Programming,School,"",Jazz,Mystery
+558,84765,Male,21,Vietnam,"Computer Science/CSE",Sports,Programming,One-Liner,EDM,Documentary
+559,79292,Female,20,"United States","Computer Science/CSE",Nerd,Politics,One-Liner,EDM,"Romantic comedy"
+560,50056,Male,20,India,"Computer Science/CSE",Politics,Sports,Puns,Pop,Superhero
+561,46469,Male,21,"United States","Computer Science/CSE",Programming,Medicine/Doctor,"Fun fact",Hip-Hop,SciFi
+562,38542,Male,21,"United States",EE/CE,Politics,Programming,Puns,Pop,Indie
+563,74737,Male,22,China,"Computer Science/CSE",Other,Programming,Puns,Hip-Hop,SciFi
+564,76766,Male,22,Thailand,"Computer Science/CSE",Sports,Politics,Question,Jazz,Action
+565,potation,Male,21,"United States","Computer Science/CSE",Other,"","",EDM,Comedy
+566,40100,Male,21,"United States","Computer Science/CSE",Other,Nerd,Dialogue,"Alternative Rock","Romantic comedy"
+567,cc123456,Male,22,China,"Computer Science/CSE",Programming,School,"Fun fact",Classical,Documentary
+568,35484,Male,23,"United States","Computer Science/CSE",Programming,School,Puns,Indie,Comedy
+569,45382,Male,29,Iran,Electrical,Animal,School,Question,Country,SciFi
